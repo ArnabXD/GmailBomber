@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# Code Credit : https://github.com/lamanihani/Gmail-Bomber
 # =========================================================================================================================================
 import os
 import random
