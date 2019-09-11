@@ -1,6 +1,6 @@
 # GmailBomber
 A Simple Tool To Bomb Emails using Your Gmail .
-[![alt tag](https://i.ibb.co/7nhgnwB/IMG-20190912-020133.jpg)]
+[alt tag](https://i.ibb.co/7nhgnwB/IMG-20190912-020133.jpg)
 
 ## How to Use
 ```
