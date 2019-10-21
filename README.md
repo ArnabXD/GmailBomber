@@ -5,7 +5,7 @@ A Simple Tool To Bomb Emails using Your Gmail .
 
 ## How to Use
 ```
-Sign in to your Gmsil
+Sign in to your Gmail
 Visit https://www.google.com/settings/security/lesssecureapps
 Turn on Less Secure App Logins
 ```
