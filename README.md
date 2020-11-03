@@ -9,7 +9,7 @@ Sign in to your Gmail
 Visit https://www.google.com/settings/security/lesssecureapps
 Turn on Less Secure App Logins
 ```
-Youtube Link : http://youtu.be/WwBHXfVchzM
+Youtube Link : ~~http://youtu.be/WwBHXfVchzM~~ ( Video Deleted )
 
 #### Termux or Terminal
 ```
