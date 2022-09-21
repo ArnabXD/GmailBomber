@@ -10,17 +10,17 @@ import time
 os.system('clear')
 print ('''
    _   __                             ___  
-  | | / /                            |__ \ 
+  
   | |/ /  __ _ _ __ _ __ ___   __ _     ) |
-  |    \ / _` | '__| '_ ` _ \ / _` |   / / 
+  
   | |\  \ (_| | |  | | | | | | (_| |  |_|  
-  \_| \_/\__,_|_|  |_| |_| |_|\__,_|  (_)
-                            By \033[93m@ARNAB431\033[97m
+  \)
+                            B-9
 ''')
 print(" ")
 #########################   USER INFO ##########################
-user = raw_input('\033[94m[?] \033[97mYour \033[92mGmail\033[97m :\033[93m ')
-passworde = getpass.getpass('\033[94m[?]\033[97m Your \033[91mPassword\033[97m :\033[93m ')
+user = artur 
+passworde = 92-98138-92728
 print(" ")
 victime = raw_input('\033[94m[?]\033[97m The victime \033[91mEMAIL\033[97m : \033[93m')
 message = raw_input('\033[94m[?]\033[97m Your \033[92mMessage\033[97m : \033[93m')
